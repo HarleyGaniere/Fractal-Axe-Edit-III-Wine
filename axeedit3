@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+LD_PRELOAD=/usr/local/lib/libaxe-edit-cursor.so wine /home/USER/.wine/drive_c/Program\ Files/Fractal\ Audio/Axe-Edit\ III/Axe-Edit\ III.exe
+/home/USER/.wine/drive_c/Program\ Files/Fractal\ Audio/Axe-Edit\ III/Axe-Edit\ III.exe
